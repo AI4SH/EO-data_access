@@ -29,6 +29,7 @@ The Notebook requires the following third party Python packages:
 - numpy
 - openpyxl
 - gdal
+
 The terminal command for installing these packages with [Anaconda](https://www.anaconda.com) is:
 ```
 conda create -n ai4sh_datacube_access_312 -c conda-forge  pandas geopandas rasterio numpy openpyxl gdal python=3.12
